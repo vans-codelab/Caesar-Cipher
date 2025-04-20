@@ -1,12 +1,12 @@
 
-# Caesar Cipher - Verschlüssle Nachrichten
+# Caesar Cipher - Verschlüsselung von Nachrichten
 Die Caesar-Verschlüsselung (Caesar Cipher) ist eine der ältesten und bekanntesten Verschlüsselungsmethoden, benannt nach Julius Caesar, der sie selbst verwendet hat, um geheime Botschaften zu verschicken.
 
 
 ### Funktionsweise
 Bei der Caesar-Verschlüsselung werden die Zeichen im Text um eine festgelegte Zahl verschoben. Diese Verschiebung erzeugt einen neuen, verschlüsselten Text. Die Methode basiert auf einer einfachen, aber effektiven Technik, bei der jedes Zeichen des Originaltextes durch ein Zeichen ersetzt wird, das eine bestimmte Anzahl von Stellen im Alphabet weiter vorne oder zurück liegt.
 
-**Beispiel:** Der Text 'abc' wird mit einer Verschiebung von 3 zu 'def'.
+**Beispiel:** Der Text 'abc' wird mit einer Verschiebung von 3 Stellen zu 'def'.
 
 
 ### Erweiterung des Zeichensatzes
@@ -27,20 +27,6 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
 
 
 ### Nutzung
-1. Klicke auf den grünen Button "Code" auf GitHub und lade das Repository als ZIP-Datei herunter.
-2. Entzippe den Ordner und stelle sicher, dass alle Python-Dateien im gleichen Ordner liegen.
-3. Öffne die Eingabeaufforderung und navigiere in das Verzeichnis, in dem sich die Dateien befinden.
-   Beispiel:
-
-       cd "C:\Caesar-Cipher\"
-   
-4. Führe **main.py** aus, um das Programm zu starten.
-
-       python main.py
-   
-5. Verschlüssle oder Entschlüssle deine Nachricht: Gib den Text und die gewünschte Verschiebung ein, um eine Nachricht zu verschlüsseln oder zu entschlüsseln.
-
-### Nutzung
 1. **Dateien herunterladen:**
    
    Klicke auf den grünen Button "Code" auf GitHub und lade das Repository als ZIP-Datei herunter.
@@ -49,6 +35,7 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
 3. **Programm ausführen:**
    
    Öffne die Eingabeaufforderung und navigiere in das Verzeichnis, in dem sich die Dateien befinden.
+   
    Beispiel:
 
        cd "C:\Caesar-Cipher\"
@@ -57,6 +44,12 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
 
        python main.py
    
-3. **Verschlüssle oder Entschlüssle einen Text:**
+3. **Text verschlüsseln oder entschlüsseln:**
    
-   Wähle aus, ob der Text verschlüsselt ('encode') oder entschlüsselt ('decode') werden soll. Gib dann den Text und die gewünschte Verschiebung ein, um den Text zu verschlüsseln oder zu entschlüsseln.
+   Wähle aus, ob der Text verschlüsselt ("encode") oder entschlüsselt ("decode") werden soll. Gib dann den Text und die gewünschte Verschiebung ein, um den Text zu verschlüsseln oder zu entschlüsseln.
+
+
+### Kontext
+Dieses Projekt wurde im Rahmen des „100 Days of Code - The Complete Python Pro Bootcamp“-Kurses von Angela Yu auf Udemy entwickelt, in dem ich die grundlegenden Konzepte der Python-Programmierung erlernt habe. Im Anschluss entschloss ich mich, das Projekt weiter auszubauen, indem ich zusätzliche Funktionen hinzufügte, wie die Unterstützung von Zahlen und Sonderzeichen im verschlüsselten Text. Für mehr Übersichtlichkeit und eine bessere Lesbarkeit habe ich außerdem ausgewählte Codeblöcke in Funktionen zusammengefasst und diese in ein separates Modul ausgelagert.
+
+

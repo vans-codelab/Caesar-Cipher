@@ -6,7 +6,7 @@ Die Caesar-Verschlüsselung (Caesar Cipher) ist eine der ältesten und bekanntes
 ### Funktionsweise
 Bei der Caesar-Verschlüsselung werden die Zeichen im Text um eine festgelegte Zahl verschoben. Diese Verschiebung erzeugt einen neuen, verschlüsselten Text. Die Methode basiert auf einer einfachen, aber effektiven Technik, bei der jedes Zeichen des Originaltextes durch ein Zeichen ersetzt wird, das eine bestimmte Anzahl von Stellen im Alphabet weiter vorne oder zurück liegt.
 
-**Beispiel:** Der Text 'abc' wird mit einer Verschiebung von 3 zu 'def'.
+**Beispiel:** Der Text 'abc' wird mit einer Verschiebung von 3 Stellen zu 'def'.
 
 
 ### Erweiterung des Zeichensatzes
@@ -35,6 +35,7 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
 3. **Programm ausführen:**
    
    Öffne die Eingabeaufforderung und navigiere in das Verzeichnis, in dem sich die Dateien befinden.
+   
    Beispiel:
 
        cd "C:\Caesar-Cipher\"
@@ -45,7 +46,7 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
    
 3. **Text verschlüsseln oder entschlüsseln:**
    
-   Wähle aus, ob der Text verschlüsselt ('encode') oder entschlüsselt ('decode') werden soll. Gib dann den Text und die gewünschte Verschiebung ein, um den Text zu verschlüsseln oder zu entschlüsseln.
+   Wähle aus, ob der Text verschlüsselt ("encode") oder entschlüsselt ("decode") werden soll. Gib dann den Text und die gewünschte Verschiebung ein, um den Text zu verschlüsseln oder zu entschlüsseln.
 
 
 ### Kontext

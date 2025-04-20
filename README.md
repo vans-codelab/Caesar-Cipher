@@ -47,4 +47,4 @@ To make the encryption more complex, the character set in this project has been 
 This project was developed as part of the "100 Days of Code - The Complete Python Pro Bootcamp" course by Angela Yu on Udemy, where I learned the basic concepts of Python programming. After completing the basic Caesar Cipher from the course, I decided to expand the project by adding additional features, such as supporting numbers and special characters in the encrypted text. For better readability and structure, I also refactored selected code blocks into functions and moved them into a separate module.
 
 ### German Version
-For the German version of this README, please refer to [README_DE.md](https://github.com/vans-codelab/Caesar-Cipher/blob/side-branch/README_DE.md).
+For the German version of this README, please refer to [README_DE.md](https://github.com/vans-codelab/Caesar-Cipher/blob/main/README_DE.md).

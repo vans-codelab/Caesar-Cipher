@@ -50,6 +50,6 @@ Das Projekt verwendet nur die Standardbibliothek von Python. Es sind keine exter
 
 
 ### Kontext
-Dieses Projekt wurde im Rahmen des „100 Days of Code - The Complete Python Pro Bootcamp“-Kurses von Angela Yu auf Udemy entwickelt, in dem ich die grundlegenden Konzepte der Python-Programmierung erlernt habe. Im Anschluss entschloss ich mich, das Projekt weiter auszubauen, indem ich zusätzliche Funktionen hinzufügte, wie die Unterstützung von Zahlen und Sonderzeichen im verschlüsselten Text. Für mehr Übersichtlichkeit und eine bessere Lesbarkeit habe ich außerdem ausgewählte Codeblöcke in Funktionen zusammengefasst und diese in ein separates Modul ausgelagert.
+Dieses Projekt wurde im Rahmen des „100 Days of Code - The Complete Python Pro Bootcamp“-Kurses von Angela Yu auf Udemy entwickelt, in dem ich die grundlegenden Konzepte der Python-Programmierung erlernt habe. Im Anschluss entschloss ich mich, das Projekt weiter auszubauen, indem ich zusätzliche Funktionen hinzufügte und z.b. ermöglichte, nicht nur Buchstaben, sondern auch Zahlen und Sonderzeichen im Text zu verschlüsseln. Für mehr Übersichtlichkeit und eine bessere Lesbarkeit wurden außerdem ausgewählte Codeblöcke in Funktionen zusammengefasst und diese in ein separates Modul ausgelagert. Auch habe ich mögliche fehlerhafte Benutzereingaben berücksichtigt und den Code entsprechend angepasst, um diese abzufangen. 
 
 

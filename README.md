@@ -44,7 +44,7 @@ To make the encryption more complex, the character set in this project has been 
     Choose whether to encrypt ("encode") or decrypt ("decode") the text. Then, enter the text and the desired shift to encrypt or decrypt it.
 
 ### Context
-This project was developed as part of the "100 Days of Code - The Complete Python Pro Bootcamp" course by Angela Yu on Udemy, where I learned the basic concepts of Python programming. After completing the basic Caesar Cipher from the course, I decided to expand the project by adding additional features, such as supporting numbers and special characters in the encrypted text. For better readability and structure, I also refactored selected code blocks into functions and moved them into a separate module.
+This project was developed as part of the "100 Days of Code - The Complete Python Pro Bootcamp" course by Angela Yu on Udemy, where I learned the basic concepts of Python programming. After completing the basic Caesar Cipher from the course, I decided to expand the project by adding additional features, such as supporting numbers and special characters in the encrypted text. To improve readability and structure, selected code blocks were refactored into functions and moved to a separate module. Furthermore, I considered the possibility of incorrect user inputs and adapted the code to handle these errors.
 
 ### German Version
 For the German version of this README, please refer to [README_DE.md](https://github.com/vans-codelab/Caesar-Cipher/blob/side-branch/README_DE.md).

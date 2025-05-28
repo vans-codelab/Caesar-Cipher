@@ -55,3 +55,4 @@ This project was developed as part of the "100 Days of Code - The Complete Pytho
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

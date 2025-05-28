@@ -2,7 +2,7 @@
 The Caesar Cipher is one of the oldest and most well-known encryption methods, named after Julius Caesar, who used it himself to send secret messages.
 
 ### How it Works
-In the Caesar Cipher, the characters in the text are shifted by a desired number. This shift generates a new, encrypted text. The method is based on a simple but effective technique, where each character in the original text is replaced by a character that is a certain number of positions forward or backward in the alphabet.
+The Caesar Cipher is a tool used to encrypt or decrypt messages. To encrypt, the characters in the text are shifted by a chosen number within the character set. This creates the encrypted message. To decrypt, the characters are shifted back by the same number.
 
 **Example:** The text 'abc' becomes 'def' when shifted by 3 positions.
 
@@ -13,6 +13,13 @@ To make the encryption more complex, the character set in this project has been 
 - **Simplicity:** The Caesar Cipher is easy to understand and implement.
 - **Extended Character Set:** The extended character set makes the encrypted text more difficult to crack.
 - **Beginner Level:** Ideal for beginners and anyone wanting to get started with cryptography.
+
+### Features
+- Encrypts and decrypts text messages
+- Supports letters, numbers, and special characters
+- Adjustable shift value for flexible usage
+- Organized code into modules and functions for clear, maintainable, and reusable structure
+- Error handling for invalid user inputs
 
 ### Requirements
 - **Programming Language:**
@@ -41,10 +48,11 @@ To make the encryption more complex, the character set in this project has been 
 
 3. **Encrypt or Decrypt Text:**
 
-    Choose whether to encrypt ("encode") or decrypt ("decode") the text. Then, enter the text and the desired shift to encrypt or decrypt it.
+    Choose whether to encrypt ("encode") or decrypt ("decode") the text. Then, enter the text and the shift number to encrypt or decrypt it.
 
 ### Context
-This project was developed as part of the "100 Days of Code - The Complete Python Pro Bootcamp" course by Angela Yu on Udemy, where I learned the basic concepts of Python programming. After completing the basic Caesar Cipher from the course, I decided to expand the project by adding additional features, such as supporting numbers and special characters in the encrypted text. To improve readability and structure, selected code blocks were refactored into functions and moved to a separate module. Furthermore, I considered the possibility of incorrect user inputs and adapted the code to handle these errors.
+This project was developed as part of the "100 Days of Code - The Complete Python Pro Bootcamp" course by Angela Yu on Udemy, where I learned the basic concepts of Python programming. After completing the basic Caesar Cipher from the course, I decided to expand the project by adding additional features, such as supporting numbers and special characters in the encrypted text. To improve readability and structure, selected code blocks were refactored into functions and moved to a separate module. Furthermore, I considered the possibility of invalid user inputs and adapted the code to handle these errors.
 
-### German Version
-For the German version of this README, please refer to [README_DE.md](https://github.com/vans-codelab/Caesar-Cipher/blob/main/README_DE.md).
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

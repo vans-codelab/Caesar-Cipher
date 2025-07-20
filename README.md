@@ -1,5 +1,5 @@
 # Caesar Cipher - Encrypting Messages
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Encryption](https://img.shields.io/badge/Topic-Caesar%20Cipher-yellow)
 ![CLI](https://img.shields.io/badge/Interface-Command%20Line-informational)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
